@@ -1,0 +1,142 @@
+ 1476    995  emacs chrom22.txt
+ 1477    996  ls
+ 1478    997  cd Bioinformatics/
+ 1479    998  ls
+ 1480    999  cd/
+ 1481   1000  ls
+ 1482   1001  ls bio
+ 1483   1002  cd bio/ncbi/
+ 1484   1003  ls
+ 1485   1004  cd db
+ 1486   1005  ls
+ 1487   1006  ll
+ 1488   1007  cd ..
+ 1489   100
+ 1490   1009  cd ..
+ 1491   1010  ls
+ 1492   1011  cd ..
+ 1493   1012  ls
+ 1494   1013  cd ygao/
+ 1495   1014  ls
+ 1496   1015  l
+ 1497   1016  cd LO
+ 1498   1017  ls
+ 1499   1018  ll
+ 1500   1019  cd ..
+ 1501   1020
+ 1502   1021  cd Methylation/
+ 1503
+ 1504   1023  cd ..
+ 1505   1024  ls
+ 1506   1025  ll
+ 1507   10
+ 1508   1027  ll -dev
+ 1509   1028
+ 1510   1029  ls
+ 1511   1030  ls dev | grep LO
+ 1512   1031  ls LOF | grep LO
+ 1513   1032  echo 1
+ 1514   1033  echo 1 >LOF | grep LO
+ 1515   1034  ll LOF |grep LO
+ 1516   1035  echo hello |cat
+ 1517   1036  echo he
+ 1518   1037  ls home
+ 1519   1038  cd ..
+ 1520   1039  ls
+ 1521   1040  cd ..
+ 1522   1041  ls
+ 1523   1042  cd export
+ 1524   1043  ls
+ 1525   1044  cd ..
+ 1526   1045  cd home/
+ 1527   1046  ls
+ 1528   1047  cd ygao/
+ 1529   1048  ls
+ 1530   1049  ls archive | grep host
+ 1531   1050  ls archive | grep r
+ 1532   1
+ 1533   1052  ls
+ 1534   1053  cd archive/
+ 1535   1054  ls
+ 1536   1055  cd ..
+ 1537   1056  ls
+ 1538   1057  ls LOF
+ 1539   1058  cat /LOF
+ 1540   1059  ls
+ 1541   1060  cat LOF
+ 1542   1061  cat archive/
+ 1543   1062  cd ~
+ 1544   1063  cd ..
+ 1545   1064  ls
+ 1546   1065  pwd
+ 1547   1066  cd-
+ 1548   1067  cd -
+ 1549   1068  cd ~
+ 1550   1069  ls
+ 1551   1070  ls /bio/
+ 1552   1071  cd bio
+ 1553   1072  ls
+ 1554   1073  cd ..
+ 1555   1074  ls
+ 1556   1075  ls /bio
+ 1557   1076  ls
+ 1558   1077  ls /archive
+ 1559   1078  ls archive
+ 1560   1079  cd /
+ 1561   1080  ls
+ 1562   1081  cd home/y
+ 1563   1082  ls
+ 1564   1
+ 1565   1084  ls
+ 1566   1085  pwd
+ 1567   1086  ls /home/ygao
+ 1568   1087  ls home/ygao
+ 1569   1088  cd /
+ 1570   1089  ls
+ 1571   1090  cd home/
+ 1572   1091  ls y
+ 1573   1092  cd ygao/
+ 1574   1093  ls
+ 1575   1094  -bash-4.1$
+ 1576   1095  mkdir  -p  ~/mycode/python
+ 1577   1096  ls
+ 1578   1097  sudo apt-get install vim -y
+ 1579   1098  cd mycode/
+ 1580   1099  ls
+ 1581   1100  cd python/
+ 1582   1101  cd~
+ 1583   1102  cd ~
+ 1584   1103  ls
+ 1585   1104  g
+ 1586   1105  git --version
+ 1587   1106  vim
+ 1588   1107  git clone http://github
+ 1589   1108  git clone https://github.com/hrmoradi/ClassT
+ 1590   1109  cd ~
+ 1591   1110  ls
+ 1592   1111  madir TestGit
+ 1593   1112  mkdir TestGit
+ 1594   1113  cd
+ 1595   1114  git remote add
+ 1596   1115  git pull origin ma
+ 1597   1116  git status
+ 1598	1117  ls bin | grep  .py  
+ 1599	1118  ls bin | grep python
+ 1600	1119  mkdir  -p  ~/mycode/python
+ 1601	1120  rmdir python    
+ 1602	1121  sudo apt-get install vim –y    
+ 1603	1122  vim  test.py
+ 1604	1123  vi  test.py
+ 1605	1124  python3 test.py
+ 1606	1125  python3 test.py first second third 
+ 1607	1126  python3 test.py ./testfile.py > out.txt        
+ 1608	1127  cat out.txt
+ 1609	1128  python3 test.py >out.txt
+ 1610	1129  python3 test.py >out.txt 2>err.txt
+ 1611	1130  python3 test.py &>all.txt
+ 1612	1131  python3 test.py >>out.txt 2>>err.txt   
+ 1613	1132  git remote add origin https://github.com/yangao0311/bsd765
+ 1614	1133  git pull origin main
+ 1615	1134  git commit -m "update for class"
+ 1616	1135  git push origin main
+
